@@ -1,0 +1,15 @@
+@media (max-width:1200px){
+    .container{
+        width: 90%;
+    }
+    
+    .card-body{
+        margin-bottom: 3rem;
+    }
+
+    .card-body__2{
+        margin-bottom: 0rem;
+    }
+
+}
+
